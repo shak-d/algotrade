@@ -1,0 +1,2 @@
+# algotrade
+trading algorithm
